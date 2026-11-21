@@ -20,6 +20,12 @@ There is also a YouTube tutorial associated with this, that can be viewed on [Yo
 The more modern version of the toolkit is currently a monorepo for the entire SignGameLabs project that is still under development and a Github repository has not been made public yet, as it contains work that is currently being reviewed or prepared for review at academic conferences. All these resources will also be made public once their corresponding research has been published or arxiv'd. 
 Instructions on accessing the toolkit, used by current game developers, international partners and students in our classes at Georgia Tech is available on [our Lab website: signdata](https://signdata.cc.gatech.edu/view/toolkit.html).
 
+## YouTube Resources
+Our submission for the video describing the project is available at the [submitted video link](https://youtu.be/eI9rvQyakk0). 
+This video is a trimmed version of [one published on Google's Channel](https://youtube.com/watch?v=WC9x3jp_nV8).
+
+We also have [another video](https://www.youtube.com/watch?v=AEwKzsqxnsg) that is mentioned on the [popsign.org](https://popsign.org) website.
+
 ## Datasets
 A mirror of all our datasets are hosted on [signdata](https://signdata.cc.gatech.edu), and are available for download under the CC-BY-4.0 license. 
 
