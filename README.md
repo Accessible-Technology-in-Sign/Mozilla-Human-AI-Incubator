@@ -5,7 +5,7 @@ This page is a listing of all our resources for the submission to the Mozilla Hu
 
 ## PopSign & PopSignAI
 The main website for PopSignAI and the broader PopSign effort can be found at [the PopSign website](https://popsign.org). 
-The code repository can be found at 
+The code repository can be found [here](https://github.com/Accessible-Technology-in-Sign/PopsignAI_Old). Note that this is the code before a major revamp for our Beta testing, which is currently private due to licensing of certain assets. Once the licensing has been figured out we will make the latest version of the game public again. 
 Currently, our PopSignAI game is being heavily revamped, and we have a beta test. The link will be updated here soon. 
 
 ## Sign Language Recognition & Games Toolkit (SLRGTk)
