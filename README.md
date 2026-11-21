@@ -17,7 +17,7 @@ The last public version of the Sign Language Recognition and Games Toolkit is cu
 We maintain a [PyPI package](https://pypi.org/project/slrtk/0.0.7/) for easy installation of resources for this toolkit. 
 There is also a YouTube tutorial associated with this, that can be viewed on [YouTube](https://youtu.be/t_3k4wMvQxE).
 
-The more modern version of the toolkit is currently a monorepo for the entire SignGameLabs project that is still under development and a Github repository has not been made public yet. 
+The more modern version of the toolkit is currently a monorepo for the entire SignGameLabs project that is still under development and a Github repository has not been made public yet, as it contains work that is currently being reviewed or prepared for review at academic conferences. All these resources will also be made public once their corresponding research has been published or arxiv'd. 
 Instructions on accessing the toolkit, used by current game developers, international partners and students in our classes at Georgia Tech is available on [our Lab website: signdata](https://signdata.cc.gatech.edu/view/toolkit.html).
 
 ## Datasets
